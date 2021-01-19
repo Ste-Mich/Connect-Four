@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  font-size: 4em;
+  font-size: 3em;
   margin-bottom: 2%;
 }
 
@@ -16,7 +16,7 @@ tr {
 
 td {
   border: 2px solid gray;
-  width: 90px;
-  height: 90px;
+  width: 95px;
+  height: 95px;
   display: block;
 }
