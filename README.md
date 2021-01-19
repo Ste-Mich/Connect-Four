@@ -1,5 +1,5 @@
 # Connect-Four
-A Connect Four game. 
+A Connect Four game made for web in JavaScript.
 
 ## How to run:
 1. Download the zip and extract it to a folder.
