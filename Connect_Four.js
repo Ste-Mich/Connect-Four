@@ -1,3 +1,17 @@
+/********************************************************************************************
+ *                                                                                          *
+ *      project: Connect Four in js                                                         *
+ *      author: Štěpán Michálek                                                             *
+ *      purpose: make a working Connect Four with Js                                        *
+ *                                                                                          *
+ * Features:                                                                                *
+ * - A Connect Four game made for 2 players.                                                *
+ * - You can win by getting four in a row, collumn or a diagonal.                           *
+ * - If all fields are filled, It's a tie.                                                  *
+ * - The state of the game is displayed in the text at the top.                             *
+ * - The input is handled with event listeners in the table and the text at the top.        *
+ *                                                                                          *
+ ********************************************************************************************/
 
 // *
 // * VARIABLES:
